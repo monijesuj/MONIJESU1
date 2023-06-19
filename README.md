@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MONIJESU1
-- 👀 I’m interested in Robotics, IoT, Cloud computing, AI.
-- 🌱 I’m currently learning AI with opencv, Robotics with raspberry pi and a Student of Mechatronics and Robotics @donstu.ru
+- 👋 Hi, I’m @MONIJESU
+- 👀 I’m interested in Robotics development, Computer vision, Image processing, Machine learning, Deep learning, AI.
+- 🌱 I’m currently learning C++, Computer vision, Matlab, ROS, SLAM, and a Student of Mechatronics and Robotics @donstu.ru
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jamesisegunonluwa@gmail.com
 
